@@ -51,3 +51,4 @@
 
 
 ## OUTPUT:
+![gdt](https://github.com/user-attachments/assets/c65e9d16-2162-4508-af5e-b56d26e6cf65)
